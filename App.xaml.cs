@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace radik227ms2016
+namespace adel227ms2016
 {
     /// <summary>
     /// Логика взаимодействия для App.xaml
