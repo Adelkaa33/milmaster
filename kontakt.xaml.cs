@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace radik227ms2016
+namespace adel227ms2016
 {
     /// <summary>
     /// Логика взаимодействия для kontakt.xaml
